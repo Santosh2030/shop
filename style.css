@@ -858,6 +858,9 @@ footer .copyright {
     justify-content: center;
     gap: 15px;
   }
+  #feature .fe-box {
+    width: 150px;
+  }
   #product1 .pro-container {
     justify-content: center;
     gap: 35px;
